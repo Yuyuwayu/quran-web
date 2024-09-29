@@ -11,3 +11,6 @@ Welcome to the Ramadan 2024 project, a groundbreaking endeavor marking my maiden
 4. Run `php artisan key:generate` on your folder application from your terminal
 5. Run `php artisan serve` on your folder application from your terminal
 6. Go to `http://127.0.0.1:8000/`
+
+## Need Updates
+- Update UI 
